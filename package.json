@@ -1,0 +1,21 @@
+{
+  "name": "clickfastgame",
+  "version": "1.0.0",
+  "description": "ClickFastGame",
+  "main": "script.js",
+  "scripts": {
+    "test": "npx jest --env=jsdom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install jsdom"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
